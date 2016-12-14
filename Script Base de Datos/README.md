@@ -4,7 +4,7 @@
 
 ### Integrantes: Edison Chung, Fabrizio Ramírez
 
-En este directorio se enceuntra el script generado para ser implementado en una base de datos Microsoft SQL Server 2008:
+En este directorio se encuentra el Script generado por PowerDesigner a partir del Modelo físico, para ser implementado en una base de datos Microsoft SQL Server 2008:
 
 ### Script
 
